@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/quotes/static/css/main.1188280e.chunk.css",
-    "main.js": "/quotes/static/js/main.f520cb10.chunk.js",
-    "main.js.map": "/quotes/static/js/main.f520cb10.chunk.js.map",
-    "runtime-main.js": "/quotes/static/js/runtime-main.257e11f0.js",
-    "runtime-main.js.map": "/quotes/static/js/runtime-main.257e11f0.js.map",
-    "static/js/2.34622a49.chunk.js": "/quotes/static/js/2.34622a49.chunk.js",
-    "static/js/2.34622a49.chunk.js.map": "/quotes/static/js/2.34622a49.chunk.js.map",
-    "index.html": "/quotes/index.html",
-    "static/css/main.1188280e.chunk.css.map": "/quotes/static/css/main.1188280e.chunk.css.map",
-    "static/js/2.34622a49.chunk.js.LICENSE.txt": "/quotes/static/js/2.34622a49.chunk.js.LICENSE.txt",
-    "static/media/ai.aa60586b.png": "/quotes/static/media/ai.aa60586b.png",
-    "static/media/logo.16efaf42.svg": "/quotes/static/media/logo.16efaf42.svg",
-    "static/media/people.5cd2d6fb.png": "/quotes/static/media/people.5cd2d6fb.png",
-    "static/media/possibility.525f13b6.png": "/quotes/static/media/possibility.525f13b6.png"
+    "main.css": "/React-GptLandingPage/static/css/main.1188280e.chunk.css",
+    "main.js": "/React-GptLandingPage/static/js/main.f520cb10.chunk.js",
+    "main.js.map": "/React-GptLandingPage/static/js/main.f520cb10.chunk.js.map",
+    "runtime-main.js": "/React-GptLandingPage/static/js/runtime-main.2e8a5b21.js",
+    "runtime-main.js.map": "/React-GptLandingPage/static/js/runtime-main.2e8a5b21.js.map",
+    "static/js/2.34622a49.chunk.js": "/React-GptLandingPage/static/js/2.34622a49.chunk.js",
+    "static/js/2.34622a49.chunk.js.map": "/React-GptLandingPage/static/js/2.34622a49.chunk.js.map",
+    "index.html": "/React-GptLandingPage/index.html",
+    "static/css/main.1188280e.chunk.css.map": "/React-GptLandingPage/static/css/main.1188280e.chunk.css.map",
+    "static/js/2.34622a49.chunk.js.LICENSE.txt": "/React-GptLandingPage/static/js/2.34622a49.chunk.js.LICENSE.txt",
+    "static/media/ai.aa60586b.png": "/React-GptLandingPage/static/media/ai.aa60586b.png",
+    "static/media/logo.16efaf42.svg": "/React-GptLandingPage/static/media/logo.16efaf42.svg",
+    "static/media/people.5cd2d6fb.png": "/React-GptLandingPage/static/media/people.5cd2d6fb.png",
+    "static/media/possibility.525f13b6.png": "/React-GptLandingPage/static/media/possibility.525f13b6.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.257e11f0.js",
+    "static/js/runtime-main.2e8a5b21.js",
     "static/js/2.34622a49.chunk.js",
     "static/css/main.1188280e.chunk.css",
     "static/js/main.f520cb10.chunk.js"
